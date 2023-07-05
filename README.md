@@ -9,7 +9,7 @@ Para aprender sobre o Git/Github irei:
 
 3- Fazer edições na máquina através do Gitbash
 
-4- Testar os comandos: git clone/ cd Teste/ git status/ git add . ou git add -A/ git commit -m/ git push origin main
+4- Testar os comandos: git clone/ cd Primeiro_Repositorio/ git status/ git add . ou git add -A/ git commit -m/ git push origin main
 
 5- Enviar as modificações ao github
 

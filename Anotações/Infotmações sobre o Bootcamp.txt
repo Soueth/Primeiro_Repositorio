@@ -1,0 +1,3 @@
+Curso: Primeiros Passos para Criação de Sites
+Módulo: Princípios de agilidade e desenvolvimento de software
+Desafio de projeto 1: Criar o primeiro repositório no Github
